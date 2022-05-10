@@ -25,8 +25,8 @@ header {
 }
 
 .logo-container {
-    
     flex: 1;
+    position: flex;
 }
 .logo {
     font-weight: 400;
@@ -143,7 +143,7 @@ nav {
     display: flex;
     justify-content: space-around;
     position: absolute;
-    right: 26%;
+    right: 20%;
 }
 
 .image-fit{
@@ -162,26 +162,51 @@ nav {
 }
 
 .text-gradient{
-    padding-top: 20vh;
-    position: absolute;
-    color: aliceblue;
-    font-size: 300%;
+    
+    position: relative;
+    font-size: 400%;
     line-height: 1.50;
     font-weight: 500;
+    text-align: center;
+    background: linear-gradient(90deg, rgb(251, 200, 177), rgb(243, 118, 1), green);
+    font-family: 'Poppins', sans-serif;
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
 }
 
-.experiment{
+.carousel-container {
+    width: 60%;
+    margin: auto;
+    overflow: hidden;
+    border: 5px solid;
+    position: relative;
+}
+
+.carousel-slide {
+    display: flex;
+    width: 100%;
+    height: 500px;
+}
+
+#prevBtn{
     position: absolute;
-    bottom: 100px;
-    left: 50px;
-    line-height: 2;
-    margin-top: 15vh;
+    top: 50%;
+    left: 5%;
+    z-index: 10;
+    font-size: 30px;
+    color: silver;
+    cursor: pointer;
 }
 
-.text-over{
+#nextBtn{
     position: absolute;
+    top: 50%;
+    right: 5%;
+    z-index: 10;
+    font-size: 30px;
+    color: silver;
+    cursor: pointer;
 }
-
 
 
 @keyframes drop {
@@ -227,6 +252,16 @@ nav {
     .medium-circle,
     .big-circle {
         opacity: 0.2;
+    }
+}
+
+@keyframes animate {
+    0% {
+        background-position: 0%;
+    }
+
+    100% {
+        background-position: 400%;
     }
 }
 

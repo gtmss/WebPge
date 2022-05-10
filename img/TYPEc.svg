@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="120" height="120" viewBox="0 0 120 120">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="矩形_2" data-name="矩形 2" width="120" height="120" transform="translate(1246 540)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="蒙版组_2" data-name="蒙版组 2" transform="translate(-1246 -540)" clip-path="url(#clip-path)">
+    <g id="_2" data-name="2" transform="translate(1245.5 539.5)">
+      <rect id="矩形_1890" data-name="矩形 1890" width="120" height="120" transform="translate(0.5 0.5)" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="1" opacity="0"/>
+      <path id="路径_3376" data-name="路径 3376" d="M72.5,37.55V66.37a7.2,7.2,0,0,1-7.2,7.2H55.7a7.2,7.2,0,0,1-7.2-7.2V37.55" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="2"/>
+      <path id="路径_3377" data-name="路径 3377" d="M68.21,31.52a6,6,0,0,1,4.29,5.75h0a6,6,0,0,1-6,6h-12a6,6,0,0,1-6-6h0A6,6,0,0,1,53,31.46" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="2"/>
+      <path id="路径_3378" data-name="路径 3378" d="M68.5,23.22v11.9a2,2,0,0,1-2,2h-12a2,2,0,0,1-2-2V23.22" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="2"/>
+      <path id="路径_3379" data-name="路径 3379" d="M65.5,26.26h-10a3,3,0,0,1-3-3h0a3,3,0,0,1,3-3h10a3,3,0,0,1,3,3h0a3,3,0,0,1-3,3Z" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="2"/>
+      <path id="路径_3380" data-name="路径 3380" d="M56.54,23.26h8" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1"/>
+      <line id="直线_6" data-name="直线 6" y2="15.56" transform="translate(60.57 86.24)" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+      <path id="路径_3381" data-name="路径 3381" d="M64.55,73.6V84a2,2,0,0,1-2,2h-4a2,2,0,0,1-2-2V73.6" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="2"/>
+    </g>
+  </g>
+</svg>
